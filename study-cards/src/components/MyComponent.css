@@ -28,6 +28,7 @@ body {
 .title {
     font-size: 1.8rem;
     margin-bottom: 0.25rem;
+    color: black;
 }
 
 .description {
