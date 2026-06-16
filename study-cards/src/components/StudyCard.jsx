@@ -48,11 +48,10 @@ function MyComponent() {
     };
     
     const handleNext = () => {
-        if (currentCardIndex < cardSet.cards.length - 1) {
-            setCurrentCardIndex(currentCardIndex + 1);
-            setIsFlipped(false);
-        }
-    };
+        const randomIndex = Math.floor(Math.random() * cardSet.cards.length); // Generate a random index
+        setCurrentCardIndex(randomIndex); // Update the state with the random index
+        setIsFlipped(false); // Reset the flip state when moving to the next card
+      };
 
     return (
         <div className="container">
