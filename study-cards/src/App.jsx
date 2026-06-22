@@ -1,5 +1,4 @@
-import MyComponent from "./components/myComponent";
-
+import MyComponent from "./components/StudyCard";
 function App() {
   return (
     <div>

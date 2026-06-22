@@ -38,10 +38,12 @@ The following **additional** features are implemented:
 * [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
+[Watch the walkthrough](./Kapture4.mp4)
 
 Here's a walkthrough of implemented required features:
 
 <img src='https://imgur.com/a/ErqXyEX' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/wFfS5OY' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
 
 
 GIF created with ...  
